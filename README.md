@@ -1,7 +1,7 @@
 # Mobile Dashboard Starter
 
 [![HACS Custom](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/narayanvs/mobile-dashboard-starter#install-and-create-your-dashboard)
-[![Latest release including betas](https://img.shields.io/github/v/release/narayanvs/mobile-dashboard-starter?include_prereleases&sort=semver&label=release)](https://github.com/narayanvs/mobile-dashboard-starter/releases)
+[![Latest release including betas](https://img.shields.io/github/v/release/narayanvs/mobile-dashboard-starter?include_prereleases&sort=semver&label=beta&color=blue&cacheSeconds=300)](https://github.com/narayanvs/mobile-dashboard-starter/releases)
 [![Home Assistant 2026.5+](https://img.shields.io/badge/Home%20Assistant-2026.5%2B-18BCF2.svg)](https://github.com/narayanvs/mobile-dashboard-starter#before-you-install)
 [![Validation](https://github.com/narayanvs/mobile-dashboard-starter/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/narayanvs/mobile-dashboard-starter/actions/workflows/check.yml)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
