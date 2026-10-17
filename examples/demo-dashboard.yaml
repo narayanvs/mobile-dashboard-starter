@@ -1,0 +1,17 @@
+title: Mobile Dashboard Demo
+views:
+  - title: Demo
+    path: home
+    type: sections
+    max_columns: 1
+    sections:
+      - type: grid
+        cards:
+          - type: custom:mobile-dashboard-starter
+            page: home
+            mapping:
+              schema_version: 1
+              demo: true
+            grid_options:
+              columns: full
+              rows: auto

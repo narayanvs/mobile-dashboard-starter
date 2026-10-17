@@ -1,0 +1,575 @@
+{
+  "schema_version": 1,
+  "auto_detect": true,
+  "title": "Our home",
+  "demo": "auto",
+  "weather": "",
+  "sun": "sun.sun",
+  "rooms": [
+    {
+      "id": "living_room",
+      "name": "Living room",
+      "icon": "mdi:sofa-outline",
+      "entities": {
+        "temperature": "",
+        "humidity": "",
+        "presence": "",
+        "door": "",
+        "light": "",
+        "light_secondary": "",
+        "climate": "",
+        "sleep_mode": "",
+        "manual_hold": "",
+        "mode_script": ""
+      }
+    },
+    {
+      "id": "kitchen",
+      "name": "Kitchen",
+      "icon": "mdi:countertop-outline",
+      "entities": {
+        "temperature": "",
+        "humidity": "",
+        "presence": "",
+        "door": "",
+        "light": "",
+        "light_secondary": "",
+        "climate": "",
+        "sleep_mode": "",
+        "manual_hold": "",
+        "mode_script": ""
+      }
+    },
+    {
+      "id": "dining_room",
+      "name": "Dining room",
+      "icon": "mdi:silverware-fork-knife",
+      "entities": {
+        "temperature": "",
+        "humidity": "",
+        "presence": "",
+        "door": "",
+        "light": "",
+        "light_secondary": "",
+        "climate": "",
+        "sleep_mode": "",
+        "manual_hold": "",
+        "mode_script": ""
+      }
+    },
+    {
+      "id": "hallway",
+      "name": "Hallway",
+      "icon": "mdi:door-open",
+      "entities": {
+        "temperature": "",
+        "humidity": "",
+        "presence": "",
+        "door": "",
+        "light": "",
+        "light_secondary": "",
+        "climate": "",
+        "sleep_mode": "",
+        "manual_hold": "",
+        "mode_script": ""
+      }
+    },
+    {
+      "id": "main_bedroom",
+      "name": "Main bedroom",
+      "icon": "mdi:bed-king-outline",
+      "entities": {
+        "temperature": "",
+        "humidity": "",
+        "presence": "",
+        "door": "",
+        "light": "",
+        "light_secondary": "",
+        "climate": "",
+        "sleep_mode": "",
+        "manual_hold": "",
+        "mode_script": ""
+      }
+    },
+    {
+      "id": "kids_bedroom",
+      "name": "Kids bedroom",
+      "icon": "mdi:bed-single-outline",
+      "entities": {
+        "temperature": "",
+        "humidity": "",
+        "presence": "",
+        "door": "",
+        "light": "",
+        "light_secondary": "",
+        "climate": "",
+        "sleep_mode": "",
+        "manual_hold": "",
+        "mode_script": ""
+      }
+    },
+    {
+      "id": "guest_bedroom",
+      "name": "Guest bedroom",
+      "icon": "mdi:bed-outline",
+      "entities": {
+        "temperature": "",
+        "humidity": "",
+        "presence": "",
+        "door": "",
+        "light": "",
+        "light_secondary": "",
+        "climate": "",
+        "sleep_mode": "",
+        "manual_hold": "",
+        "mode_script": ""
+      }
+    },
+    {
+      "id": "office",
+      "name": "Office",
+      "icon": "mdi:desk",
+      "entities": {
+        "temperature": "",
+        "humidity": "",
+        "presence": "",
+        "door": "",
+        "light": "",
+        "light_secondary": "",
+        "climate": "",
+        "sleep_mode": "",
+        "manual_hold": "",
+        "mode_script": ""
+      }
+    },
+    {
+      "id": "bathroom",
+      "name": "Bathroom",
+      "icon": "mdi:shower",
+      "entities": {
+        "temperature": "",
+        "humidity": "",
+        "presence": "",
+        "door": "",
+        "light": "",
+        "light_secondary": "",
+        "climate": "",
+        "sleep_mode": "",
+        "manual_hold": "",
+        "mode_script": ""
+      }
+    },
+    {
+      "id": "utility",
+      "name": "Utility room",
+      "icon": "mdi:washing-machine",
+      "entities": {
+        "temperature": "",
+        "humidity": "",
+        "presence": "",
+        "door": "",
+        "light": "",
+        "light_secondary": "",
+        "climate": "",
+        "sleep_mode": "",
+        "manual_hold": "",
+        "mode_script": ""
+      }
+    },
+    {
+      "id": "landing",
+      "name": "Landing",
+      "icon": "mdi:stairs",
+      "entities": {
+        "temperature": "",
+        "humidity": "",
+        "presence": "",
+        "door": "",
+        "light": "",
+        "light_secondary": "",
+        "climate": "",
+        "sleep_mode": "",
+        "manual_hold": "",
+        "mode_script": ""
+      }
+    },
+    {
+      "id": "garage",
+      "name": "Garage",
+      "icon": "mdi:garage",
+      "entities": {
+        "temperature": "",
+        "humidity": "",
+        "presence": "",
+        "door": "",
+        "light": "",
+        "light_secondary": "",
+        "climate": "",
+        "sleep_mode": "",
+        "manual_hold": "",
+        "mode_script": ""
+      }
+    },
+    {
+      "id": "outdoor",
+      "name": "Outdoor",
+      "icon": "mdi:tree-outline",
+      "entities": {
+        "temperature": "",
+        "humidity": "",
+        "presence": "",
+        "door": "",
+        "light": "",
+        "light_secondary": "",
+        "climate": "",
+        "sleep_mode": "",
+        "manual_hold": "",
+        "mode_script": ""
+      }
+    }
+  ],
+  "energy": {
+    "battery_positive": "charging",
+    "entities": {
+      "solar_power": "",
+      "home_power": "",
+      "battery_power": "",
+      "battery_soc": "",
+      "grid_import_power": "",
+      "grid_export_power": "",
+      "solar_today": "",
+      "home_today": "",
+      "import_today": "",
+      "export_today": "",
+      "charged_today": "",
+      "discharged_today": "",
+      "forecast_today": "",
+      "forecast_power": "",
+      "ev_power": ""
+    },
+    "flows": {
+      "solar_to_battery": "",
+      "solar_to_home": "",
+      "solar_to_grid": "",
+      "battery_to_home": "",
+      "battery_to_grid": "",
+      "grid_to_battery": "",
+      "grid_to_home": ""
+    }
+  },
+  "people": [],
+  "appliances": [
+    {
+      "id": "washer",
+      "name": "Washing machine",
+      "kind": "washer",
+      "running_threshold_w": 5,
+      "power_max_w": 2500,
+      "duration_unit": "min",
+      "running_states": [
+        "on",
+        "run",
+        "running",
+        "washing",
+        "drying",
+        "playing"
+      ],
+      "entities": {
+        "power": "",
+        "running": "",
+        "started_at": "",
+        "daily_energy": "",
+        "monthly_energy": "",
+        "cycle_energy": "",
+        "last_duration": "",
+        "last_energy": "",
+        "progress": "",
+        "finishes_at": "",
+        "remaining_time": "",
+        "programme": "",
+        "door": "",
+        "plug": ""
+      }
+    },
+    {
+      "id": "dryer",
+      "name": "Dryer",
+      "kind": "dryer",
+      "running_threshold_w": 5,
+      "power_max_w": 2500,
+      "duration_unit": "min",
+      "running_states": [
+        "on",
+        "run",
+        "running",
+        "washing",
+        "drying",
+        "playing"
+      ],
+      "entities": {
+        "power": "",
+        "running": "",
+        "started_at": "",
+        "daily_energy": "",
+        "monthly_energy": "",
+        "cycle_energy": "",
+        "last_duration": "",
+        "last_energy": "",
+        "progress": "",
+        "finishes_at": "",
+        "remaining_time": "",
+        "programme": "",
+        "door": "",
+        "plug": ""
+      }
+    },
+    {
+      "id": "dishwasher",
+      "name": "Dishwasher",
+      "kind": "dishwasher",
+      "running_threshold_w": 5,
+      "power_max_w": 2500,
+      "duration_unit": "min",
+      "running_states": [
+        "on",
+        "run",
+        "running",
+        "washing",
+        "drying",
+        "playing"
+      ],
+      "entities": {
+        "power": "",
+        "running": "",
+        "started_at": "",
+        "daily_energy": "",
+        "monthly_energy": "",
+        "cycle_energy": "",
+        "last_duration": "",
+        "last_energy": "",
+        "progress": "",
+        "finishes_at": "",
+        "remaining_time": "",
+        "programme": "",
+        "door": "",
+        "plug": ""
+      }
+    },
+    {
+      "id": "kettle",
+      "name": "Kettle",
+      "kind": "kettle",
+      "running_threshold_w": 5,
+      "power_max_w": 3000,
+      "duration_unit": "min",
+      "running_states": [
+        "on",
+        "run",
+        "running",
+        "washing",
+        "drying",
+        "playing"
+      ],
+      "entities": {
+        "power": "",
+        "running": "",
+        "started_at": "",
+        "daily_energy": "",
+        "monthly_energy": "",
+        "cycle_energy": "",
+        "last_duration": "",
+        "last_energy": "",
+        "progress": "",
+        "finishes_at": "",
+        "remaining_time": "",
+        "programme": "",
+        "door": "",
+        "plug": ""
+      }
+    },
+    {
+      "id": "extractor",
+      "name": "Extractor",
+      "kind": "extractor",
+      "running_threshold_w": 5,
+      "power_max_w": 300,
+      "duration_unit": "min",
+      "running_states": [
+        "on",
+        "run",
+        "running",
+        "washing",
+        "drying",
+        "playing"
+      ],
+      "entities": {
+        "power": "",
+        "running": "",
+        "started_at": "",
+        "daily_energy": "",
+        "monthly_energy": "",
+        "cycle_energy": "",
+        "last_duration": "",
+        "last_energy": "",
+        "progress": "",
+        "finishes_at": "",
+        "remaining_time": "",
+        "programme": "",
+        "door": "",
+        "plug": ""
+      }
+    },
+    {
+      "id": "tv",
+      "name": "TV",
+      "kind": "tv",
+      "running_threshold_w": 5,
+      "power_max_w": 500,
+      "duration_unit": "min",
+      "running_states": [
+        "on",
+        "run",
+        "running",
+        "washing",
+        "drying",
+        "playing"
+      ],
+      "entities": {
+        "power": "",
+        "running": "",
+        "started_at": "",
+        "daily_energy": "",
+        "monthly_energy": "",
+        "cycle_energy": "",
+        "last_duration": "",
+        "last_energy": "",
+        "progress": "",
+        "finishes_at": "",
+        "remaining_time": "",
+        "programme": "",
+        "door": "",
+        "plug": ""
+      }
+    },
+    {
+      "id": "gaming_pc",
+      "name": "Gaming PC",
+      "kind": "pc",
+      "running_threshold_w": 5,
+      "power_max_w": 1200,
+      "duration_unit": "min",
+      "running_states": [
+        "on",
+        "run",
+        "running",
+        "washing",
+        "drying",
+        "playing"
+      ],
+      "entities": {
+        "power": "",
+        "running": "",
+        "started_at": "",
+        "daily_energy": "",
+        "monthly_energy": "",
+        "cycle_energy": "",
+        "last_duration": "",
+        "last_energy": "",
+        "progress": "",
+        "finishes_at": "",
+        "remaining_time": "",
+        "programme": "",
+        "door": "",
+        "plug": ""
+      }
+    },
+    {
+      "id": "desk",
+      "name": "Office desk",
+      "kind": "desk",
+      "running_threshold_w": 5,
+      "power_max_w": 1000,
+      "duration_unit": "min",
+      "running_states": [
+        "on",
+        "run",
+        "running",
+        "washing",
+        "drying",
+        "playing"
+      ],
+      "entities": {
+        "power": "",
+        "running": "",
+        "started_at": "",
+        "daily_energy": "",
+        "monthly_energy": "",
+        "cycle_energy": "",
+        "last_duration": "",
+        "last_energy": "",
+        "progress": "",
+        "finishes_at": "",
+        "remaining_time": "",
+        "programme": "",
+        "door": "",
+        "plug": ""
+      }
+    }
+  ],
+  "lab": [
+    {
+      "id": "server",
+      "name": "Home server",
+      "kind": "server",
+      "entities": {
+        "status": "",
+        "power": "",
+        "cpu": "",
+        "memory": "",
+        "temperature": ""
+      }
+    },
+    {
+      "id": "router",
+      "name": "Router",
+      "kind": "router",
+      "entities": {
+        "status": "",
+        "power": "",
+        "cpu": "",
+        "memory": "",
+        "temperature": ""
+      }
+    },
+    {
+      "id": "network",
+      "name": "Network switch",
+      "kind": "network",
+      "entities": {
+        "status": "",
+        "power": "",
+        "cpu": "",
+        "memory": "",
+        "temperature": ""
+      }
+    }
+  ],
+  "security": {
+    "entities": {
+      "alarm": "",
+      "front_door": "",
+      "back_door": "",
+      "lock": "",
+      "camera_front": ""
+    }
+  },
+  "car": {
+    "name": "Our car",
+    "entities": {
+      "car_soc": "",
+      "car_range": "",
+      "ev_power": ""
+    }
+  },
+  "calendars": []
+}

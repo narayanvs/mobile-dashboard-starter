@@ -1,0 +1,18 @@
+title: Mobile Dashboard
+views:
+  - title: Home
+    path: home
+    type: sections
+    max_columns: 1
+    sections:
+      - type: grid
+        cards:
+          - type: custom:mobile-dashboard-starter
+            config_version: 1
+            mapping:
+              schema_version: 1
+              demo: auto
+            page: home
+            grid_options:
+              columns: full
+              rows: auto
